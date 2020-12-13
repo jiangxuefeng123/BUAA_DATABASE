@@ -1,0 +1,11 @@
+STUDENT = 'STUDENT'
+TUTOR = 'TUTOR'
+SUPERVISOR = 'SUPERVISOR'
+
+NOT_PROCESSED = '未处理'
+AGREED = '已同意'
+DISAGREED = '不同意'
+
+ENTER = '入宿'
+CHANGE = '换宿'
+DELETE = '退宿'
